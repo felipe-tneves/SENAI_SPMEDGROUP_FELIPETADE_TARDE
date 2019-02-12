@@ -1,0 +1,8 @@
+ID;Situação;Anamnésia ;Data_Consulta;ID_Médico;ID_Prontuario
+1;Realizada;CLINICA;20/01/2019 15:00;3;7
+2;Cancelada;CLINICA;06/01/2018 10:00;2;2
+3;Realizada;CLINICA;07/02/2019 11:00;2;3
+4;Realizada;CLINICA;06/02/2018 10:00;2;2
+5;Cancelada;CLINICA;07/02/2019 11:00;1;4
+6;Agendada;CLINICA;08/02/2019 15:00;3;7
+7;Agendada;CLINICA;09/02/2019 11:00;1;4
